@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Today",
+    "data": [
+      {
+        "type": "gift",
+        "detail": "You have unlocked a gift",
+        "dateTime": "6h"
+      },
+      {
+        "type": "score",
+        "detail": "Your kenko score has been updated",
+        "dateTime": "8h"
+      },
+      {
+        "type": "activities",
+        "detail": "New activity update : 5 activities have been added to your schedule",
+        "dateTime": "16h"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "21 July, 2019",
+    "data": [
+      {
+        "type": "gift",
+        "detail": "Your Kenko credits have been updated",
+        "dateTime": "1d"
+      },
+      {
+        "type": "score",
+        "detail": "You have received a health tip",
+        "dateTime": "1d"
+      },
+      {
+        "type": "activities",
+        "detail": "You have received a health tip",
+        "dateTime": "1d"
+      },
+      {
+        "type": "activities",
+        "detail": "New activity update : 5 activities have been added to your schedule",
+        "dateTime": "16h"
+      },
+      {
+        "type": "tip",
+        "detail": "You have recieved a health tip",
+        "dateTime": "16h"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "20 July, 2019",
+    "data": [
+      {
+        "type": "gift",
+        "detail": "your have unlocked a gift",
+        "dateTime": "6h"
+      },
+      {
+        "type": "score",
+        "detail": "your kenko score has been updated",
+        "dateTime": "8h"
+      },
+      {
+        "type": "activities",
+        "detail": "New activity update : 5 activities have been added to your schedule",
+        "dateTime": "16h"
+      }
+    ]
+  }
+]

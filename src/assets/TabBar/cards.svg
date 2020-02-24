@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>cards</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkout" transform="translate(-35.000000, -376.000000)">
+            <g id="cards" transform="translate(36.000000, 370.000000)">
+                <polygon id="Path-3" fill="rgba(245, 46, 191, 1)" transform="translate(26.415398, 25.570608) rotate(-171.000000) translate(-26.415398, -25.570608) " points="8.25630689 31.9796991 8.25630689 21.5967423 10.6338981 19.1615173 42.5072335 19.1615173 44.5744887 21.5967423 44.5744887 31.9796991"></polygon>
+                <polygon id="Path-3" fill="rgba(245, 46, 191, 1)" transform="translate(28.587704, 11.855209) rotate(9.000000) translate(-28.587704, -11.855209) " points="10.4286128 15.0597542 10.4286128 11.0858883 12.806204 8.65066327 44.6795394 8.65066327 46.7467946 11.0858883 46.7467946 15.0597542"></polygon>
+                <polygon id="Rectangle" fill="#FFFFFF" transform="translate(40.130797, 27.742914) rotate(9.000000) translate(-40.130797, -27.742914) " points="37.9944336 25.6065504 42.2671609 25.6065504 42.2671609 29.8792777 37.9944336 29.8792777"></polygon>
+                <path d="M4.06818182,19.7717646 C2.68746994,19.7717646 1.56818182,20.8910527 1.56818182,22.2717646 L1.56818182,39.7717646 C1.56818182,41.1524764 2.68746994,42.2717646 4.06818182,42.2717646 L34.3863636,42.2717646 C35.7670755,42.2717646 36.8863636,41.1524764 36.8863636,39.7717646 L36.8863636,22.2717646 C36.8863636,20.8910527 35.7670755,19.7717646 34.3863636,19.7717646 L4.06818182,19.7717646 Z" id="Rectangle" stroke="rgba(245, 46, 191, 1)" stroke-width="1" fill="#FFFFFF" transform="translate(19.227273, 31.021765) rotate(-11.000000) translate(-19.227273, -31.021765) "></path>
+                <polygon id="Rectangle" fill="rgba(245, 46, 191, 1)" transform="translate(18.615817, 27.876096) rotate(-11.000000) translate(-18.615817, -27.876096) " points="1.52490754 25.739732 35.7067257 25.739732 35.7067257 30.0124593 1.52490754 30.0124593"></polygon>
+                <polygon id="Rectangle" fill="rgba(245, 46, 191, 1)" transform="translate(8.289878, 39.132739) rotate(-11.000000) translate(-8.289878, -39.132739) " points="5.61942347 36.4622848 10.9603326 36.4622848 10.9603326 41.8031939 5.61942347 41.8031939"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

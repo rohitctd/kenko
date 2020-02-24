@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Question-screen-2" transform="translate(-35.000000, -545.000000)" fill="#FFFFFF">
+            <path d="M43,549 L43,545 L38,550 L43,555 L43,551 C46.31,551 49,553.69 49,557 C49,560.31 46.31,563 43,563 C39.69,563 37,560.31 37,557 L35,557 C35,561.42 38.58,565 43,565 C47.42,565 51,561.42 51,557 C51,552.58 47.42,549 43,549 L43,549 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

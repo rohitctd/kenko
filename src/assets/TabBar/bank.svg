@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="43px" viewBox="0 0 41 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>bank</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkout" transform="translate(-38.000000, -463.000000)" stroke="rgba(245, 46, 191, 1)">
+            <g id="bank" transform="translate(38.000000, 463.000000)">
+                <polygon id="Triangle" stroke-width="1" points="21 1.35483871 40.6451613 16.2580645 1.35483871 16.2580645"></polygon>
+                <path d="M1.83114919,41.3225806 L39.6389554,41.3225806" id="Line" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M4.06451613,35.9032258 L37.9354839,35.9032258" id="Line" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M1.83114919,16.9354839 L39.6389554,16.9354839" id="Line" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M4.92716734,18.1229524 L4.92716734,33.7929057" id="Path-5" stroke-width="2"></path>
+                <path d="M10.1612903,18.1229524 L10.1612903,33.7929057" id="Path-5" stroke-width="1"></path>
+                <path d="M14.2258065,18.1229524 L14.2258065,33.7929057" id="Path-5" stroke-width="1"></path>
+                <path d="M18.2903226,18.1229524 L18.2903226,33.7929057" id="Path-5" stroke-width="1"></path>
+                <path d="M22.3548387,18.1229524 L22.3548387,33.7929057" id="Path-5" stroke-width="1"></path>
+                <path d="M4.06451613,18.2903226 L8.80645161,18.2903226" id="Line-2" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M17.6129032,18.2903226 L22.3548387,18.2903226" id="Line-2" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M27.0967742,18.2903226 L30.483871,18.1229524" id="Line-2" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M33.8709677,18.2903226 L37.2580645,18.1229524" id="Line-2" stroke-width="1" stroke-linecap="square"></path>
+                <path d="M26.4193548,18.1229524 L26.4193548,33.7929057" id="Path-5" stroke-width="1"></path>
+                <path d="M31.8387097,18.1229524 L31.8387097,33.7929057" id="Path-5" stroke-width="1"></path>
+                <path d="M37.2580645,18.1229524 L37.2580645,33.7929057" id="Path-5" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "511109038344",
+    "firebase_url": "https://calcium-doodad-244801.firebaseio.com",
+    "project_id": "calcium-doodad-244801",
+    "storage_bucket": "calcium-doodad-244801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511109038344:android:36e3c834422feac6f2acbd",
+        "android_client_info": {
+          "package_name": "com.kenko.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511109038344-6irmj54st9deosbe9rvtbipvgt2bi6lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kenko.app",
+            "certificate_hash": "a2cc56e2a89991a39ad383b1ad191d1d61e5b83d"
+          }
+        },
+        {
+          "client_id": "511109038344-oudb4h1mtom95ecpnb47dnbs4r578qq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKOl6bB2G9OOkE9rhWsEmPlgYRkQWvJn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511109038344-oudb4h1mtom95ecpnb47dnbs4r578qq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511109038344-bg3spvmuc0e789nkikbf2fddnbofs419.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kenko.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511109038344:android:52af7d290aa3d1eff2acbd",
+        "android_client_info": {
+          "package_name": "in.kenkohealth.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511109038344-r7skuvc6psim6jv35m7822bdpak1brdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.kenkohealth.app",
+            "certificate_hash": "a2cc56e2a89991a39ad383b1ad191d1d61e5b83d"
+          }
+        },
+        {
+          "client_id": "511109038344-oudb4h1mtom95ecpnb47dnbs4r578qq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKOl6bB2G9OOkE9rhWsEmPlgYRkQWvJn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511109038344-oudb4h1mtom95ecpnb47dnbs4r578qq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511109038344-bg3spvmuc0e789nkikbf2fddnbofs419.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kenko.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

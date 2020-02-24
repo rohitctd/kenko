@@ -1,0 +1,162 @@
+import {StyleSheet, Dimensions, Platform} from 'react-native';
+const {width, height} = Dimensions.get('window');
+
+import {Dimens, Colors, isIphoneXorAbove, Fonts} from '../../utils/Theme';
+
+export default StyleSheet.create({
+  container: {
+    flex: 1,
+    height: height,
+    flexDirection: 'column',
+    padding: Dimens.thirty,
+    backgroundColor: Colors.loginBackground,
+  },
+  textOr: {
+    color: Colors.loginTextColor,
+    textAlign: 'center',
+    fontWeight: 'normal',
+    marginTop: Dimens.ten,
+  },
+  buttonSignUpContainer: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    height: Dimens.fifty,
+    marginTop: Dimens.ten,
+    marginLeft: Dimens.twenty,
+    marginRight: Dimens.twenty,
+    borderRadius: Dimens.twentyFive,
+    borderWidth: 0.5,
+    backgroundColor: Colors.darkRed,
+    borderColor: Colors.loginTextColor,
+  },
+  buttonSignInContainer: {
+    width: '35%',
+    marginTop: Dimens.fourtyFive,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: Colors.loginTextColor,
+    borderColor: Colors.loginTextColor,
+  },
+  textSignUp: {
+    color: Colors.loginTextColor,
+    textAlign: 'center',
+    fontSize: Dimens.fourteen,
+  },
+  textSignIn: {
+    fontSize: Dimens.twenty,
+    color: Colors.loginBackground,
+    paddingVertical: Dimens.seven,
+    paddingHorizontal: Dimens.twenty,
+    fontFamily: Fonts.SourceSansProSemibold,
+  },
+  textInput: {
+    marginTop: Dimens.thirty,
+    fontSize: Dimens.twentyFive,
+    borderColor: Colors.loginTextColor,
+    paddingRight: Dimens.twenty,
+    color: Colors.loginTextColor,
+    textAlign: 'left',
+    fontFamily: Fonts.SourceSansProRegular,
+    borderBottomWidth: StyleSheet.hairlineWidth,
+    alignItems: 'stretch',
+  },
+  textInputX: {
+    height: Dimens.fifty,
+    borderRadius: Dimens.twentyFive,
+    borderWidth: 0.5,
+    borderColor: Colors.loginTextColor,
+    marginTop: Dimens.twenty,
+    fontSize: Dimens.fourteen,
+    marginStart: Dimens.twenty,
+    marginEnd: Dimens.twenty,
+    paddingTop: Dimens.five,
+    paddingBottom: Dimens.five,
+    paddingStart: Dimens.twenty,
+    paddingEnd: Dimens.twenty,
+    color: Colors.loginTextColor,
+    textAlign: 'center',
+  },
+  welcomeHeader: {
+    paddingTop:
+      Platform.OS == 'ios'
+        ? isIphoneXorAbove()
+          ? Dimens.oneFifty
+          : Dimens.eighty
+        : Dimens.eighty,
+    fontSize: Dimens.thirty,
+    color: Colors.loginTextColor,
+    textAlign: 'left',
+    fontFamily: Fonts.SourceSansProBold,
+  },
+  eventHeader: {
+    color: Colors.loginTextColor,
+    fontSize: Dimens.fifteen,
+    textAlign: 'center',
+    marginTop: Dimens.ten,
+    marginStart: Dimens.seventy,
+    marginEnd: Dimens.seventy,
+  },
+  textHeaderI: {
+    color: Colors.loginTextColor,
+    textAlign: 'left',
+    fontWeight: 'normal',
+    fontSize: Dimens.eighteen,
+    marginTop: Dimens.ten,
+    fontFamily: Fonts.SourceSansProRegular,
+  },
+  textHeaderII: {
+    marginHorizontal: Dimens.five,
+    color: Colors.loginTextColor,
+    textAlign: 'center',
+    fontWeight: 'normal',
+    marginTop: Dimens.ten,
+  },
+  textHeaderIII: {
+    color: Colors.loginTextColor,
+    textAlign: 'center',
+    fontWeight: 'normal',
+    marginTop: Dimens.ten,
+  },
+  logo: {
+    alignSelf: 'center',
+    resizeMode: 'contain',
+    width: Dimens.twoFourtyEight,
+    height: Dimens.oneFifty,
+  },
+  logoContainer: {
+    width: Dimens.threeFifty,
+    height: Dimens.eighty,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: Dimens.ten,
+    marginBottom: Dimens.thirty,
+  },
+
+  dialogBodyContainer: {
+    flex: 1,
+    flexDirection: 'row',
+    marginHorizontal: Dimens.fifty,
+    justifyContent: 'center',
+    position: 'absolute',
+    paddingVertical: Dimens.thirtyFive,
+    top: height / 2 - Dimens.fifty,
+    borderRadius: 10,
+    alignItems: 'center',
+    alignSelf: 'center',
+    backgroundColor: Colors.white,
+    opacity: 0.8,
+  },
+  activityIndicatorStyle: {
+    flex: 1,
+    justifyContent: 'center',
+    alignSelf: 'center',
+    padding: Dimens.zero,
+  },
+  dialogTextStyle: {
+    alignSelf: 'center',
+    fontSize: Dimens.eighteen,
+    color: Colors.appGreen,
+    marginRight: Dimens.thirty,
+    fontFamily: Fonts.SourceSansProSemibold,
+  },
+});

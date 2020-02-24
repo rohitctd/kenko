@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "action_description": "Reedemed",
+      "closing_balance": 50,
+      "created": {
+        "seconds": 1572600472,
+        "nanoseconds": 264000000
+      },
+      "current_kenko_points": 700,
+      "kenko_points": 650,
+      "kenko_points_action": "redeem",
+      "reason": "Points reedemed for 1mg plan",
+      "title": "Points reedemed",
+      "id": "x4M5CAF1OVZOQgT3aulB"
+    },
+    {
+      "action_description": "Reedemed",
+      "closing_balance": 700,
+      "created": {
+        "seconds": 1572599489,
+        "nanoseconds": 96000000
+      },
+      "current_kenko_points": 1200,
+      "kenko_points": 500,
+      "kenko_points_action": "redeem",
+      "reason": "Points reedemed for 1mg plan",
+      "title": "Points reedemed",
+      "id": "g9n5tOyHPO6p2ZV1g7ZW"
+    }
+  ],
+  "status": true,
+  "meta": {
+    "pageNo": null,
+    "totalCount": 5,
+    "limit": 2
+  }
+}
